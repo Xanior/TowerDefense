@@ -1,0 +1,1 @@
+A slickel együtt nem fért fel, bár csak 18 MB volt de 413as hibát dobott a szerver

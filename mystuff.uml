@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>mystuff</OriginalElement>
+  <nodes>
+    <node x="1307.4999999999998" y="1104.5">mystuff.gui.Clickable</node>
+    <node x="0.0" y="1281.0">mystuff.gamelogic.GameManagerTest</node>
+    <node x="1169.5" y="1616.0">mystuff.gui.ClickableTest</node>
+    <node x="100.50000000000023" y="1161.0000000000002">mystuff.gamelogic.state</node>
+    <node x="-368.99999999999955" y="1526.9999999999998">mystuff.gamelogic.Program</node>
+    <node x="-1024.9999999999995" y="657.4999999999998">mystuff.gamelogic.GameManager</node>
+    <node x="92.50000000000023" y="130.00000000000028">mystuff.gui.GUIManager</node>
+    <node x="697.5" y="804.5">mystuff.gui.Text</node>
+    <node x="726.5" y="1052.0">mystuff.gui.TextTest</node>
+    <node x="-38.0" y="599.9999999999999">mystuff.networking.Client</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="mystuff.networking.Client" target="mystuff.gamelogic.GameManager">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="mystuff.gui.ClickableTest" target="mystuff.gui.Clickable">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="mystuff.gamelogic.GameManager" target="mystuff.gui.GUIManager">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="mystuff.gui.GUIManager" target="mystuff.gamelogic.GameManager">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="mystuff.gamelogic.GameManagerTest" target="mystuff.gamelogic.GameManager">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="mystuff.gamelogic.GameManagerTest" target="mystuff.gamelogic.Program">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="mystuff.gui.TextTest" target="mystuff.gui.Text">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="mystuff.gamelogic.Program" target="mystuff.gamelogic.GameManager">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="mystuff.gamelogic.GameManager" target="mystuff.gamelogic.state">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="mystuff.gamelogic.GameManager" target="mystuff.networking.Client">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="mystuff.gui.GUIManager" target="mystuff.gui.Text">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="mystuff.gui.GUIManager" target="mystuff.gui.Clickable">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.40000000000000013" x="70.24999999999932" y="828.2499999999998" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

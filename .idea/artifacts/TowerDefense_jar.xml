@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TowerDefense:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TowerDefense_jar</output-path>
+    <root id="archive" name="TowerDefense.jar">
+      <element id="module-output" name="TowerDefense" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slick/lib/jinput.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slick/lib/jorbis-0.0.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slick/lib/slick.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slick/Pack200Task.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slick/lib/ibxm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slick/lib/jogg-0.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slick/lib/lwjgl_util.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slick/lib/tinylinepp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slick/lib/lwjgl_util_applet.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slick/lib/lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slick/lib/slick-examples.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slick/lib/jnlp.jar" path-in-jar="/" />
+      <element id="library" level="project" name="slick" />
+      <element id="file-copy" path="$PROJECT_DIR$/slick/lib/ibxm.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/slick/lib/jinput.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/slick/lib/jnlp.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/slick/lib/jogg-0.0.7.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/slick/lib/jorbis-0.0.15.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/slick/lib/lwjgl.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/slick/lib/lwjgl_util.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/slick/lib/lwjgl_util_applet.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/slick/lib/slick-examples.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/slick/lib/slick.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/slick/lib/tinylinepp.jar" />
+    </root>
+  </artifact>
+</component>
